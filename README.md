@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paymantatar
-- 👀 I’m interested in startup projects ( C#, .net core, Pyhon, nodejs, React, Vuejs, Typescript/JS) for contributing.
-- 🌱 I’m currently working as a Lead Software Development Engineer & Full-stack developer in Protium in Rotterdam, Netherlands 
+- 👀 I’m interested in startup projects ( C#, .net core, Pyhon, Vuejs, JS) for contributing.
+- 🌱 I’m currently working as a Lead Software Development Engineer & Full-stack developer in DataGenix.eu in Rotterdam, Netherlands 
 - 💞️ I’m looking to collaborate on Unicorn Potential Startup.
 - 📫 How to reach me You can send me an email :paymantatar@gmail.com. 
 
